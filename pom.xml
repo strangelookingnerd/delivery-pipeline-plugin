@@ -41,7 +41,7 @@
         <changelist>-SNAPSHOT</changelist>
         <jenkins.version>2.440.3</jenkins.version>
         <gitHubRepo>jenkinsci/${project.artifactId}</gitHubRepo>
-        <selenium.version>4.25.0</selenium.version>
+        <selenium.version>4.26.0</selenium.version>
     </properties>
 
     <scm>
